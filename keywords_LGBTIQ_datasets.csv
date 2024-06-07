@@ -1,0 +1,911 @@
+keyword;id;identifier;language_ISO;topics_level_1;topics_level_2;LGBTIQ_keywords;sentiment;translation
+bisexual;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+bullying;1;10.5279/dk-sa-dda-25575;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+discrimination;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+domestic violence;1;10.5279/dk-sa-dda-25575;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+drinking habits;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+exercise;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+hate crimes;1;10.5279/dk-sa-dda-25575;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+health;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_03 General health and well-being;0;1;
+homosexuality;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+illegal drugs (narcotics);1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;0;
+mental health;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_03 General health and well-being;0;1;
+mental well-being;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_03 General health and well-being;0;1;
+parental role;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+physical activity;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+safety;1;10.5279/dk-sa-dda-25575;eng;19 OTHER;;0;1;
+self-estimated health;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_03 General health and well-being;0;1;
+sexual behavior;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual identity;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexuality;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+smoking habits;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+suicidal thoughts;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;1;
+suicide;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_12 Wounds and injuries;0;0;
+suicide attempt;1;10.5279/dk-sa-dda-25575;eng;04 HEALTH;04_12 Wounds and injuries;0;0;
+transgender;1;10.5279/dk-sa-dda-25575;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;1;1;
+bisexuality;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+discrimination;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+discrimination against homosexuals;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;0;
+gender identity;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+health;2;FSD-2924;eng;04 HEALTH;04_03 General health and well-being;0;1;
+homosexuality;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+mental health;2;FSD-2924;eng;04 HEALTH;04_03 General health and well-being;0;1;
+sexual behaviour;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual health;2;FSD-2924;eng;04 HEALTH;04_09 Reproductive health;0;1;
+sexual identity;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual minorities;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+sexual orientation;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+transgender people;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+transsexual;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;1;1;
+youth;2;FSD-2924;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_12 Youth;0;1;
+bisexuality;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+childhood;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+discrimination;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+homosexuality;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+minority groups;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+same-sex relationships;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual identity;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+youth;3;FSD-3020;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_12 Youth;0;1;
+discrimination;4;FSD-2798;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+homosexuality;4;FSD-2798;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+interpersonal relations;4;FSD-2798;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+same-sex relationships;4;FSD-2798;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual behaviour;4;FSD-2798;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual identity;4;FSD-2798;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;4;FSD-2798;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social behaviour;4;FSD-2798;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+social environment;4;FSD-2798;eng;16 SOCIETY AND CULTURE;16_01 Community, urban and rural life;0;1;
+bisexuality;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+children;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+civil partnerships;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;1;1;
+divorced;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;0;
+female homosexuality;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+homosexuality;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+minority groups;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+parental role;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+partnerships (personal);5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+same-sex relationships;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual identity;5;FSD-3180;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+homosexuality;6;FSD-2308;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+minority groups;6;FSD-2308;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+partnerships (personal);6;FSD-2308;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+same-sex relationships;6;FSD-2308;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual identity;6;FSD-2308;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social history;6;FSD-2308;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+tolerance;6;FSD-2308;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+homosexuality;7;FSD-2291;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+minority groups;7;FSD-2291;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+partnerships (personal);7;FSD-2291;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+same-sex relationships;7;FSD-2291;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual identity;7;FSD-2291;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;7;FSD-2291;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social history;7;FSD-2291;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+tolerance;7;FSD-2291;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+bisexuality;8;FSD-2818;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+career;8;FSD-2818;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+discrimination;8;FSD-2818;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+equal opportunity;8;FSD-2818;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+homosexuality;8;FSD-2818;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+occupational life;8;FSD-2818;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+sexual identity;8;FSD-2818;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;8;FSD-2818;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+working conditions;8;FSD-2818;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+bisexuality;9;FSD-2796;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+career;9;FSD-2796;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+discrimination;9;FSD-2796;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+employees;9;FSD-2796;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+equal opportunity;9;FSD-2796;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+gender;9;FSD-2796;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+homosexuality;9;FSD-2796;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+labour and employment;9;FSD-2796;eng;07 LABOUR AND EMPLOYMENT;07_55 Other (Term introduced by authors);0;1;
+minority groups;9;FSD-2796;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+occupational life;9;FSD-2796;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+sexual orientation;9;FSD-2796;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+career;10;FSD-2797;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+discrimination;10;FSD-2797;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+employees;10;FSD-2797;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+equal opportunity;10;FSD-2797;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+gender;10;FSD-2797;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+gender identity;10;FSD-2797;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+labour and employment;10;FSD-2797;eng;07 LABOUR AND EMPLOYMENT;07_55 Other (Term introduced by authors);0;1;
+minority groups;10;FSD-2797;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+occupational life;10;FSD-2797;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+social inequality;10;FSD-2797;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+transgender people;10;FSD-2797;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+bisexuality;11;FSD-1253;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+homosexuality;11;FSD-1253;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual behaviour;11;FSD-1253;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual identity;11;FSD-1253;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual minorities;11;FSD-1253;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+sexual orientation;11;FSD-1253;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+bisexuality;12;FSD-1290;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+heterosexuality;12;FSD-1290;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+homosexuality;12;FSD-1290;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual behaviour;12;FSD-1290;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual identity;12;FSD-1290;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;12;FSD-1290;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+bisexuality;13;FSD-1288;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+heterosexuality;13;FSD-1288;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+homosexuality;13;FSD-1288;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual behaviour;13;FSD-1288;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual identity;13;FSD-1288;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;13;FSD-1288;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+career;14;FSD-2819;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+equal opportunity;14;FSD-2819;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+gender;14;FSD-2819;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+identity;14;FSD-2819;eng;16 SOCIETY AND CULTURE;16_03 Identity (Term introduced by authors. Replaces the narrower 'Culturan and national identity');0;1;
+minority groups;14;FSD-2819;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+occupational life;14;FSD-2819;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+working conditions;14;FSD-2819;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+gender expression;15;FSD-3524;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+gender identity;15;FSD-3524;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+interpersonal relations;15;FSD-3524;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+lgbtqi+;15;FSD-3524;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+sexual behaviour;15;FSD-3524;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual orientation;15;FSD-3524;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+support services;15;FSD-3524;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+santÇ;16;fr.cdsp.ddi.PresseGaie1995;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;16;fr.cdsp.ddi.PresseGaie1995;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexualitÇ;17;fr.cdsp.ddi.PresseGaie1993_en;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+santÇ;18;fr.cdsp.ddi.PresseGaie1992_en;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;18;fr.cdsp.ddi.PresseGaie1992_en;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+santÇ;19;fr.cdsp.ddi.GPH1991;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;19;fr.cdsp.ddi.GPH1991;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+santÇ;20;fr.cdsp.ddi.GPH1990;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;20;fr.cdsp.ddi.GPH1990;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+santÇ;21;fr.cdsp.ddi.GPH1989;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;21;fr.cdsp.ddi.GPH1989;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+santÇ;22;fr.cdsp.ddi.GPH1988;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;22;fr.cdsp.ddi.GPH1988;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+santÇ;23;fr.cdsp.ddi.GPH1987;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;23;fr.cdsp.ddi.GPH1987;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+santÇ;24;fr.cdsp.ddi.GPH1985;fra;04 HEALTH;04_03 General health and well-being;0;1;
+sexualitÇ;24;fr.cdsp.ddi.GPH1985;fra;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+family life and marriage;25;ZA6057;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+gender and gender roles;25;ZA6057;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+reproductive health;25;ZA6057;eng;04 HEALTH;04_09 Reproductive health;0;1;
+specific diseases;25;ZA6057;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+children;26;ZA8028;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+command;26;ZA8028;eng;11 POLITICS;11_01 Conflict, security and peace;0;1;
+concentration camp;26;ZA8028;eng;05 HISTORY;05_01 Holocaust (Term introduced by authors);0;1;
+criminal law paragraph;26;ZA8028;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_02 Legislation and legal systems;0;0;
+date of birth;26;ZA8028;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_55 Other (Term introduced by authors);0;1;
+death;26;ZA8028;eng;19 OTHER;;0;0;
+end of kz-detention;26;ZA8028;eng;05 HISTORY;05_01 Holocaust (Term introduced by authors);0;1;
+incarceration date;26;ZA8028;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;1;
+length of police detention;26;ZA8028;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;1;
+length of previous convictions;26;ZA8028;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+manner of end;26;ZA8028;eng;19 OTHER;;0;1;
+occupation;26;ZA8028;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+place of incarceration.;26;ZA8028;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;1;
+reason for incarceration;26;ZA8028;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;1;
+religion;26;ZA8028;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+special position;26;ZA8028;eng;19 OTHER;;0;1;
+crime and law enforcement;27;ZA7604;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+equality;27;ZA7604;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+inequality and social exclusion;27;ZA7604;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+minorities;27;ZA7604;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+society and culture;27;ZA7604;eng;16 SOCIETY AND CULTURE;16_55 Other (Term introduced by authors);0;1;
+equality;28;ZA6055;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+family life and marriage;28;ZA6055;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+gender and gender roles;28;ZA6055;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+inequality and social exclusion;28;ZA6055;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+reproductive health;28;ZA6055;eng;04 HEALTH;04_09 Reproductive health;0;1;
+lgbt;29;easy-dataset:161559;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+lhbt;29;easy-dataset:161559;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;lgbt
+minority stress;29;easy-dataset:161559;eng;04 HEALTH;04_03 General health and well-being;0;0;
+same-sex couples;29;easy-dataset:161559;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;1;1;
+covid-19;30;easy-dataset:204554;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;1;
+focus group discussion;30;easy-dataset:204554;eng;13 SCIENCE AND TECHNOLOGY;13_55 Other (Term introduced by authors);0;1;
+hijra;30;easy-dataset:204554;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+mental and health care;30;easy-dataset:204554;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+social problems;30;easy-dataset:204554;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;0;
+transgender;30;easy-dataset:204554;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;1;1;
+biseksuelen;31;easy-dataset:120965;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;bisexuals
+homo-emancipatie;31;easy-dataset:120965;nld;16 SOCIETY AND CULTURE;16_07 Social change;1;;gay liberation
+homoseksualiteit;31;easy-dataset:120965;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;homosexuality
+homoseksuele mannen;31;easy-dataset:120965;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;homosexual men
+lesbische vrouwen;31;easy-dataset:120965;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;lesbian women
+transgenders;31;easy-dataset:120965;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;transgender people
+acceptatie;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;;acceptance
+biseksueel;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;bisexual
+discriminatie;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;;discrimination
+homo;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;gay
+homo-emancipatie;32;easy-dataset:128175;nld;16 SOCIETY AND CULTURE;16_07 Social change;1;;gay liberation
+homo-negativiteit;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;;homonegativity
+homoseksualiteit;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;homosexuality
+homoseksueel;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;homosexual
+lesbisch;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;lesbian
+seksuele minderheden;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;sexual minorities
+seksuele voorkeur;32;easy-dataset:128175;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;;sexual orientation
+coming-out;32;easy-dataset:128175;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;1;1;
+transgender;32;easy-dataset:128175;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;1;1;
+acceptatie;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;;acceptance
+coming-out;33;easy-dataset:127610;nld;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;1;;coming-out
+discriminatie;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;;discrimination
+homo;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;gay
+homo-emancipatie;33;easy-dataset:127610;nld;16 SOCIETY AND CULTURE;16_07 Social change;1;;gay liberation
+homo-negativiteit;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;;homonegativity
+homoseksualiteit;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;homosexuality
+homoseksueel;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;homosexual
+lesbisch;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;lesbian
+seksuele minderheden;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;sexual minorities
+seksuele voorkeur;33;easy-dataset:127610;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;;sexual orientation
+transgender;33;easy-dataset:127610;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;1;1;
+concentratiekamp;34;easy-dataset:41712;nld;05 HISTORY;05_01 Holocaust (Term introduced by authors);0;;concentration camp
+joodse homoseksueel;34;easy-dataset:41712;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;jewish homosexual
+keizersgracht;34;easy-dataset:41712;nld;19 OTHER;;0;;proper name
+nsb;34;easy-dataset:41712;nld;19 OTHER;;0;1;
+velserbeek;34;easy-dataset:41712;nld;19 OTHER;;0;;proper name
+vonk;34;easy-dataset:41712;nld;19 OTHER;;0;1;
+welzheim;34;easy-dataset:41712;nld;19 OTHER;;0;;proper name
+wÅrttemberg;34;easy-dataset:41712;nld;19 OTHER;;0;;proper name
+communist;34;easy-dataset:41712;eng;11 POLITICS;11_07 Political ideology;0;1;
+oral history;34;easy-dataset:41712;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+hoerenjongen;35;easy-dataset:41713;nld;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;;male prositute
+klapperlopen;35;easy-dataset:41713;nld;19 OTHER;;0;1;
+maassluis;35;easy-dataset:41713;nld;19 OTHER;;0;1;
+platluizen;35;easy-dataset:41713;nld;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;;flatlice
+rotterdam;35;easy-dataset:41713;nld;19 OTHER;;0;;proper name
+steigerbar;35;easy-dataset:41713;nld;19 OTHER;;0;;proper name
+oral history;35;easy-dataset:41713;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+bochum;36;easy-dataset:41714;nld;19 OTHER;;0;;proper name
+bochumer verein;36;easy-dataset:41714;nld;19 OTHER;;0;;proper name
+dessau;36;easy-dataset:41714;nld;19 OTHER;;0;;proper name
+kamp amersfoort;36;easy-dataset:41714;nld;19 OTHER;;0;;proper name
+mildensee;36;easy-dataset:41714;nld;19 OTHER;;0;;proper name
+oral history;36;easy-dataset:41714;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+amersfoort;37;easy-dataset:41715;nld;19 OTHER;;0;;proper name
+apotheek;37;easy-dataset:41715;nld;04 HEALTH;04_04 Health care services and policies;0;;pharmacy
+arbeidsinzet;37;easy-dataset:41715;nld;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;;labor commitment
+bombardement rotterdam;37;easy-dataset:41715;nld;11 POLITICS;11_01 Conflict, security and peace;0;;Rotterdam bombing
+broeder bernardus;37;easy-dataset:41715;nld;19 OTHER;;0;;proper name
+garderen;37;easy-dataset:41715;nld;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;;guard
+kostschool;37;easy-dataset:41715;nld;03 EDUCATION;03_01 Compulsory and pre-school education;0;;boarding school
+putten;37;easy-dataset:41715;nld;19 OTHER;;0;1;
+razzia;37;easy-dataset:41715;nld;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;;raid
+spangen;37;easy-dataset:41715;nld;19 OTHER;;0;1;
+oral history;37;easy-dataset:41715;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+anna may wong;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+anna paulownastraat;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+bioscoop;38;easy-dataset:41716;nld;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;;cinema
+buitenhof;38;easy-dataset:41716;nld;19 OTHER;;0;1;
+cafÇ nol;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+cineac;38;easy-dataset:41716;nld;19 OTHER;;0;1;
+hotel central;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+nieuweschoolstraat;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+obrechtstraat;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+palingkoning;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+poeierdozen;38;easy-dataset:41716;nld;19 OTHER;;0;1;
+pop en do;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+sauna scheers;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+triumph;38;easy-dataset:41716;nld;19 OTHER;;0;1;
+urinoir;38;easy-dataset:41716;nld;19 OTHER;;0;;urinal
+zarah leander;38;easy-dataset:41716;nld;19 OTHER;;0;;proper name
+oral history;38;easy-dataset:41716;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+atlantikwall;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+gortstraat;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+juffermansstraat;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+kaalgeschoren;39;easy-dataset:41717;nld;05 HISTORY;05_01 Holocaust (Term introduced by authors);0;;shaved
+kraft-ebing;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+kristalnacht;39;easy-dataset:41717;nld;05 HISTORY;05_01 Holocaust (Term introduced by authors);0;;Reichspogrom Night
+max beckman;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+noorwijk aan zee;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+oegstgeest;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+pop en do;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+prof carp;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+querido;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+radcliffe hall;39;easy-dataset:41717;nld;19 OTHER;;0;;proper name
+oral history;39;easy-dataset:41717;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+ab de snoo;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+adolphe engers;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+alphons baron de vos van steenwijk;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+baron charles ijssel de schepper;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+bram rouville de meux;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+cees konijn;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+cor ferwerda;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+eddy post;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+henk vermeulen;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+jacob hiegentlich;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+l a ries;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+max cohen;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+ocker repelaer;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+peter van anrooij;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+toni toso;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+willy fruin;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+wim duparc;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+wim van der meer.;40;easy-dataset:41718;nld;19 OTHER;;0;;proper name
+oral history;40;easy-dataset:41718;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+amalia;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+arbeidsinzet;41;easy-dataset:41719;nld;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;;labor commitment
+berlijn;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+bondwerker;41;easy-dataset:41719;nld;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;;union worker
+bouber gezelschap;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+clothilde;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+felix van kleef;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+ferry offerman;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+fred mobilie;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+gerrie verbruggen;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+haring arie;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+heck's;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+heiligeweg zwembad;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+jackie moscou;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+jan lap;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+joop en rien zalmstra;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+kuchel;41;easy-dataset:41719;nld;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;;cough
+mooie bennie;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+mooie hennie;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+mooie lowietje;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+otto langer;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+peter de boer;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+peter voorn;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+robert van messel;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+tante mietje van kleef;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+zwemmeester lou charitÇ;41;easy-dataset:41719;nld;19 OTHER;;0;;proper name
+oral history;41;easy-dataset:41719;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+bezuidenhout;42;easy-dataset:41720;nld;19 OTHER;;0;;proper name
+buitenhof;42;easy-dataset:41720;nld;19 OTHER;;0;1;
+laan van meerdervoort;42;easy-dataset:41720;nld;19 OTHER;;0;;proper name
+scheveningsche bos;42;easy-dataset:41720;nld;19 OTHER;;0;;proper name
+spaarne;42;easy-dataset:41720;nld;19 OTHER;;0;1;
+urinoirs;42;easy-dataset:41720;nld;19 OTHER;;0;;urinals
+oral history;42;easy-dataset:41720;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+beukenhorst;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+forty-four;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+haagsche bos;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+heck's;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+kruisvaarders van st. jan;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+oegstgeest;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+prinses mariannelaan;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+prinsesseschouwburg;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+sauna scheers;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+scheveningsche bosjes;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+skala;43;easy-dataset:41721;nld;19 OTHER;;0;1;
+soir de paris;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+spyker;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+triumph;43;easy-dataset:41721;nld;19 OTHER;;0;1;
+voorburg;43;easy-dataset:41721;nld;19 OTHER;;0;;proper name
+oral history;43;easy-dataset:41721;eng;05 HISTORY;05_55 Other (Term introduced by authors);0;1;
+homo jongereren;44;easy-dataset:44253;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;;gay youth
+homosexualiteit;44;easy-dataset:44253;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;;homosexuality
+seksuele voorkeur;44;easy-dataset:44253;nld;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;;sexual orientation
+coming-out;44;easy-dataset:44253;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;1;;coming-out
+alcohol and smoking;45;10.18712/NSD-NSD0715-V3;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+general health and well-being;45;10.18712/NSD-NSD0715-V3;eng;04 HEALTH;04_03 General health and well-being;0;1;
+minorities;45;10.18712/NSD-NSD0715-V3;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+social behaviour and attitudes;45;10.18712/NSD-NSD0715-V3;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+social conditions and indicators;45;10.18712/NSD-NSD0715-V3;eng;16 SOCIETY AND CULTURE;16_08 Social conditions and indicators;0;1;
+discrimination on the basis of sexual orientation;46;10.18712/NSD-NSD3028-V1;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+gender role;46;10.18712/NSD-NSD3028-V1;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+sexual orientation;46;10.18712/NSD-NSD3028-V1;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social conditions and indicators;47;10.18712/NSD-NSD2610-V3;eng;16 SOCIETY AND CULTURE;16_08 Social conditions and indicators;0;1;
+society and culture;47;10.18712/NSD-NSD2610-V3;eng;16 SOCIETY AND CULTURE;16_55 Other (Term introduced by authors);0;1;
+everyday life;48;VZGL03;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+family closet;48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+family roles;48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+female homosexuality;48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+gay;48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+homosexuality;48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+male homosexuality;48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+partnership;48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+partnerships (personal);48;VZGL03;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+transparent closet;48;VZGL03;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;Glass closet
+violence;48;VZGL03;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;0;
+india;49;SN-852447;eng;11 POLITICS;11_02 Countries and regions (Term introduced by authors);0;1;
+bisexuality;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+children;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+civil partnerships;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;1;1;
+cohabitation;50;SN-6009;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+discrimination against homosexuals;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;0;
+economic activity;50;SN-6009;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+educational certificates;50;SN-6009;eng;03 EDUCATION;03_55 Other (Term introduced by authors);0;1;
+ethnic groups;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+female homosexuality;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+gender;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+home ownership;50;SN-6009;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+homosexuality;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+household budgets;50;SN-6009;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+household income;50;SN-6009;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+income;50;SN-6009;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+interpersonal relations;50;SN-6009;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+male homosexuality;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+marriage;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+partnerships (personal);50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+part-time employment;50;SN-6009;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+personal finance management;50;SN-6009;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+religious affiliation;50;SN-6009;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+same-sex relationships;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexuality;50;SN-6009;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+domestic violence;51;SN-851303;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+same-sex relationships;51;SN-851303;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+health;52;SN-855322;eng;04 HEALTH;04_03 General health and well-being;0;1;
+lgbtqi+;52;SN-855322;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;1;1;
+networking;52;SN-855322;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+discrimination against homosexuals;53;SN-7956;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;0;
+everyday life;53;SN-7956;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+homosexuality;53;SN-7956;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+same-sex relationships;53;SN-7956;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+age;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_55 Other (Term introduced by authors);0;1;
+aggressiveness;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;0;
+aids (disease);54;SN-6332;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+alcohol use;54;SN-6332;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+bisexuality;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+bullying;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+cohabitation;54;SN-6332;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+cohabiting;54;SN-6332;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+counselling;54;SN-6332;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+courtship;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+decision making;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+disabilities;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_09 Minorities;0;1;
+domestic responsibilities;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+domestic violence;54;SN-6332;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+educational background;54;SN-6332;eng;03 EDUCATION;03_55 Other (Term introduced by authors);0;1;
+emotional states;54;SN-6332;eng;04 HEALTH;04_03 General health and well-being;0;0;
+ethnic groups;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+female homosexuality;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+financial resources;54;SN-6332;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+gender;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+gender role;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+heterosexuality;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+hiv infections;54;SN-6332;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+homosexuality;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+housework;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+housing tenure;54;SN-6332;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+income;54;SN-6332;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+infidelity;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+information services;54;SN-6332;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_55 Other (Term introduced by authors);0;1;
+information sources;54;SN-6332;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_55 Other (Term introduced by authors);0;0;
+interpersonal attraction;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+interpersonal conflict;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+interpersonal relations;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+interpersonal trust;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+jealousy;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;0;
+love;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+marital history;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+marriage;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+marriage dissolution;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;0;
+mental disorders;54;SN-6332;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+parents;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+partnerships (personal);54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+premarital sex;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+same-sex relationships;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexual assault;54;SN-6332;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+sexual behaviour;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual offences;54;SN-6332;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+sexuality;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social class;54;SN-6332;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_55 Other (Term introduced by authors);0;1;
+substance use;54;SN-6332;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+virtues and vices;54;SN-6332;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+discrimination;55;SN-851358;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+employees;55;SN-851358;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+employment;55;SN-851358;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+workplace;55;SN-851358;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+adolescents;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_12 Youth;0;1;
+bisexuality;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+cultural identity;56;SN-6063;eng;16 SOCIETY AND CULTURE;16_03 Identity (Term introduced by authors. Replaces the narrower 'Culturan and national identity');0;1;
+depression;56;SN-6063;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+discrimination against homosexuals;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;0;
+emotional states;56;SN-6063;eng;04 HEALTH;04_03 General health and well-being;0;0;
+female homosexuality;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+gender;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+happiness;56;SN-6063;eng;16 SOCIETY AND CULTURE;16_08 Social conditions and indicators;0;1;
+heterosexuality;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+homosexuality;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+medical self-treatment;56;SN-6063;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+personal appearance;56;SN-6063;eng;19 OTHER;;0;1;
+public health risks;56;SN-6063;eng;04 HEALTH;04_08 Public health;0;0;
+same-sex relationships;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+self-esteem;56;SN-6063;eng;16 SOCIETY AND CULTURE;16_03 Identity (Term introduced by authors. Replaces the narrower 'Culturan and national identity');0;1;
+self-harm;56;SN-6063;eng;04 HEALTH;04_12 Wounds and injuries;0;0;
+sexual awareness;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual identity;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexuality;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social alienation;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+suicide;56;SN-6063;eng;04 HEALTH;04_12 Wounds and injuries;0;0;
+young adults;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_12 Youth;0;1;
+youth;56;SN-6063;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_12 Youth;0;1;
+adoption;57;SN-6929;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+civil partnerships;57;SN-6929;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;1;1;
+employment;57;SN-6929;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+female homosexuality;57;SN-6929;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+male homosexuality;57;SN-6929;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+same-sex relationships;57;SN-6929;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+citizenship;58;SN-7014;eng;19 OTHER;;0;1;
+community identification;58;SN-7014;eng;16 SOCIETY AND CULTURE;16_01 Community, urban and rural life;0;1;
+diaspora;58;SN-7014;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_02 Migration;0;1;
+discrimination against homosexuals;58;SN-7014;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;0;
+homosexuality;58;SN-7014;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+immigration;58;SN-7014;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_02 Migration;0;1;
+liberation movements;58;SN-7014;eng;16 SOCIETY AND CULTURE;16_07 Social change;0;1;
+national identity;58;SN-7014;eng;16 SOCIETY AND CULTURE;16_03 Identity (Term introduced by authors. Replaces the narrower 'Culturan and national identity');0;1;
+age;59;SN-851821;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_55 Other (Term introduced by authors);0;1;
+friendship;59;SN-851821;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+identity;59;SN-851821;eng;16 SOCIETY AND CULTURE;16_03 Identity (Term introduced by authors. Replaces the narrower 'Culturan and national identity');0;1;
+sexual behaviour;59;SN-851821;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social behaviour;59;SN-851821;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+attitudes;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+ceremonies;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+child custody;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+civil partnerships;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;1;1;
+cultural values;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+discrimination;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+discrimination against homosexuals;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;1;0;
+families;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+family cohesion;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+family influence;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+family law;60;SN-5900;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_02 Legislation and legal systems;0;1;
+family life;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+family members;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+financial resources;60;SN-5900;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+homosexuality;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+inheritance;60;SN-5900;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+inheritance law;60;SN-5900;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_02 Legislation and legal systems;0;1;
+interpersonal relations;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+male homosexuality;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+parent responsibility;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+parent-child relationship;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+pension benefits;60;SN-5900;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+personal finance management;60;SN-5900;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+probate;60;SN-5900;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+religious affiliation;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+religious beliefs;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+same-sex relationships;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+sexuality;60;SN-5900;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+social networks;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_01 Community, urban and rural life;0;1;
+social values;60;SN-5900;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+wills;60;SN-5900;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+central and eastern europe;61;SN-853389;eng;11 POLITICS;11_02 Countries and regions (Term introduced by authors);0;1;
+international migration;61;SN-853389;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_02 Migration;0;1;
+population migration;61;SN-853389;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_02 Migration;0;1;
+advice;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+age;62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_55 Other (Term introduced by authors);0;1;
+aids (disease);62;SN-2987;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+alcohol use;62;SN-2987;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+attitudes;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+bereavement;62;SN-2987;eng;19 OTHER;;0;0;
+building maintenance;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+care in the community;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+care of dependants;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+clinical tests and measurements;62;SN-2987;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+complementary therapies;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+cooking;62;SN-2987;eng;19 OTHER;;0;1;
+dentists;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+dependency relationship;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+diseases;62;SN-2987;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+doctor-patient relationship;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+drug side-effects;62;SN-2987;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+drug use;62;SN-2987;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+economic activity;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+emotional states;62;SN-2987;eng;04 HEALTH;04_03 General health and well-being;0;0;
+employment history;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+exercise (physical activity);62;SN-2987;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+families;62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+fathers;62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+financial resources;62;SN-2987;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+financial support;62;SN-2987;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+friends;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+gender;62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+health;62;SN-2987;eng;04 HEALTH;04_03 General health and well-being;0;1;
+health consultations;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+health professionals;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+health services;62;SN-2987;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+health visitors;62;SN-2987;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+hearing impairments;62;SN-2987;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+hiv infections;62;SN-2987;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+holidays;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;1;
+home help;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+home ownership;62;SN-2987;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+home visits;62;SN-2987;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+hospital bed provision;62;SN-2987;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+hospital discharges;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;0;
+hospital outpatient services;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+hospital services;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+hospital visiting;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+hospitalization;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+households;62;SN-2987;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_55 Other (Term introduced by authors);0;1;
+housing;62;SN-2987;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+immortality;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+interpersonal communication;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+knowledge (awareness);62;SN-2987;eng;19 OTHER;;0;1;
+landlords;62;SN-2987;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+life insurance;62;SN-2987;eng;02 ECONOMICS;02_55 Other (Term introduced by authors);0;1;
+medical care;62;SN-2987;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+medical centres;62;SN-2987;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+medical examinations;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+medical history;62;SN-2987;eng;04 HEALTH;04_03 General health and well-being;0;1;
+medical information systems;62;SN-2987;eng;13 SCIENCE AND TECHNOLOGY;13_02 Information technology;0;1;
+medical practices;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+medical prescriptions;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+medical specialists;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+mothers;62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+nausea;62;SN-2987;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;1;
+nurses;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+pain;62;SN-2987;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+partnerships (personal);62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+patients;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+peer-group relationships;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+physicians;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+prejudice;62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+professional consultations;62;SN-2987;eng;19 OTHER;;0;1;
+religion;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+religious affiliation;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+religious personnel;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+rented accommodation;62;SN-2987;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+residential care of the sick;62;SN-2987;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+residential mobility;62;SN-2987;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_02 Migration;0;1;
+respiratory system;62;SN-2987;eng;04 HEALTH;04_55 Other (Term introduced by authors);0;1;
+right to privacy;62;SN-2987;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_02 Legislation and legal systems;0;1;
+satisfaction;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_08 Social conditions and indicators;0;1;
+shopping;62;SN-2987;eng;02 ECONOMICS;02_01 Consumption and consumer behaviour;0;1;
+siblings;62;SN-2987;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+smoking;62;SN-2987;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+social activities (leisure);62;SN-2987;eng;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;1;
+social housing;62;SN-2987;eng;15 SOCIAL WELFARE POLICY AND SYSTEMS;15_02 Social welfare systems/structures;0;1;
+social security benefits;62;SN-2987;eng;15 SOCIAL WELFARE POLICY AND SYSTEMS;15_02 Social welfare systems/structures;0;1;
+social support;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+social welfare;62;SN-2987;eng;15 SOCIAL WELFARE POLICY AND SYSTEMS;15_55 Other (Term introduced by authors);0;1;
+social workers;62;SN-2987;eng;15 SOCIAL WELFARE POLICY AND SYSTEMS;15_02 Social welfare systems/structures;0;1;
+solicitors;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+specialists;62;SN-2987;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+stress (psychological);62;SN-2987;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+symptoms;62;SN-2987;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+terminally ill;62;SN-2987;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+time;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_09 Time use;0;1;
+travelling time;62;SN-2987;eng;18 TRANSPORT AND TRAVEL;;0;1;
+vision impairments;62;SN-2987;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+voluntary organizations;62;SN-2987;eng;16 SOCIETY AND CULTURE;16_02 Cultural activities and participation;0;1;
+clinical medicine;63;SN-852745;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+health;63;SN-852745;eng;04 HEALTH;04_03 General health and well-being;0;1;
+health education;63;SN-852745;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+homosexuality;63;SN-852745;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+preventive medicine;63;SN-852745;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+public health;63;SN-852745;eng;04 HEALTH;04_08 Public health;0;1;
+risk;63;SN-852745;eng;19 OTHER;;0;0;
+sex;63;SN-852745;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual health;63;SN-852745;eng;04 HEALTH;04_09 Reproductive health;0;1;
+technological literacy;63;SN-852745;eng;13 SCIENCE AND TECHNOLOGY;13_55 Other (Term introduced by authors);0;1;
+abortion;64;SN-3553;eng;04 HEALTH;04_09 Reproductive health;0;1;
+adolescents;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_12 Youth;0;1;
+adoption;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+adults;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_01 Adults (Term introduced by authors);0;1;
+age;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_55 Other (Term introduced by authors);0;1;
+application for employment;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+appointment to job;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+attitudes;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+black people;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+career development;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+censorship;64;SN-3553;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_03 Media;0;0;
+central heating;64;SN-3553;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+charitable organizations;64;SN-3553;eng;15 SOCIAL WELFARE POLICY AND SYSTEMS;15_02 Social welfare systems/structures;0;1;
+child care;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+child development;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+children;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+civil servants;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+clinical tests and measurements;64;SN-3553;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+consumer goods;64;SN-3553;eng;02 ECONOMICS;02_01 Consumption and consumer behaviour;0;1;
+criminal investigation;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+cultural goods;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+death penalty;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+discrimination;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+diseases;64;SN-3553;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+divorce;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;0;
+domestic responsibilities;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+economic activity;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+employees;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+employers;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+employment;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+employment history;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+equal opportunity;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+equality between the sexes;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;1;
+eviction;64;SN-3553;eng;06 HOUSING AND LAND USE;06_01 Housing;0;0;
+families;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+family members;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+family roles;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+gender;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+general practitioners;64;SN-3553;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+government departments;64;SN-3553;eng;11 POLITICS;11_04 Government, political systems and organisations;0;1;
+health services;64;SN-3553;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+home ownership;64;SN-3553;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+homosexuality;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+hostility;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;0;
+hotel and catering industry;64;SN-3553;eng;17 TRADE, INDUSTRY AND MARKETS;17_02 Business/industrial management and organisation;0;1;
+hotels;64;SN-3553;eng;17 TRADE, INDUSTRY AND MARKETS;17_02 Business/industrial management and organisation;0;1;
+hours of work;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+households;64;SN-3553;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_55 Other (Term introduced by authors);0;1;
+housing;64;SN-3553;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+housing tenure;64;SN-3553;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+human behaviour;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+income;64;SN-3553;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+infidelity;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+insurance;64;SN-3553;eng;02 ECONOMICS;02_55 Other (Term introduced by authors);0;1;
+interpersonal conflict;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;0;
+interpersonal relations;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+job description;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+job hunting;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+job security;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+knowledge (awareness);64;SN-3553;eng;19 OTHER;;0;1;
+landlords;64;SN-3553;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+law enforcement;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+lawful opposition;64;SN-3553;eng;11 POLITICS;11_06 Political behaviour and attitudes;0;1;
+legal status;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_55 Other (Term introduced by authors);0;1;
+legal systems;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_02 Legislation and legal systems;0;1;
+legislation;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_02 Legislation and legal systems;0;1;
+life insurance;64;SN-3553;eng;02 ECONOMICS;02_55 Other (Term introduced by authors);0;1;
+local government;64;SN-3553;eng;11 POLITICS;11_04 Government, political systems and organisations;0;1;
+location;64;SN-3553;eng;19 OTHER;;0;1;
+love;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+managers;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+marital status;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+marriage;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+mass media;64;SN-3553;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_03 Media;0;1;
+medical care;64;SN-3553;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+men;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+mortgages;64;SN-3553;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+motor vehicles;64;SN-3553;eng;18 TRANSPORT AND TRAVEL;;0;1;
+national identity;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_03 Identity (Term introduced by authors. Replaces the narrower 'Culturan and national identity');0;1;
+neighbours;64;SN-3553;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+newspapers;64;SN-3553;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_03 Media;0;1;
+occupational pensions;64;SN-3553;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+one-parent families;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+organizations;64;SN-3553;eng;19 OTHER;;0;1;
+parent-child relationship;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+parents;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+partnerships (personal);64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+peer-group relationships;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+personal contact;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+personality development;64;SN-3553;eng;12 PSYCHOLOGY;;0;1;
+personnel;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+police services;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;1;
+premarital sex;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+preschool children;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+private pensions;64;SN-3553;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+private sector;64;SN-3553;eng;17 TRADE, INDUSTRY AND MARKETS;17_02 Business/industrial management and organisation;0;1;
+professional consultations;64;SN-3553;eng;19 OTHER;;0;1;
+public sector;64;SN-3553;eng;17 TRADE, INDUSTRY AND MARKETS;17_02 Business/industrial management and organisation;0;1;
+punishment;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+qualifications;64;SN-3553;eng;03 EDUCATION;03_55 Other (Term introduced by authors);0;1;
+quality of life;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_08 Social conditions and indicators;0;1;
+racial discrimination;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+religious affiliation;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+rented accommodation;64;SN-3553;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+residential mobility;64;SN-3553;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_02 Migration;0;1;
+retirement;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_05 Retirement;0;1;
+satisfaction;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_08 Social conditions and indicators;0;1;
+savings;64;SN-3553;eng;02 ECONOMICS;02_05 Income, property and investment/saving;0;1;
+schools;64;SN-3553;eng;03 EDUCATION;03_01 Compulsory and pre-school education;0;1;
+schoolteachers;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+self-employed;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+sex discrimination;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+sexual behaviour;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual offences;64;SN-3553;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+social housing;64;SN-3553;eng;15 SOCIAL WELFARE POLICY AND SYSTEMS;15_02 Social welfare systems/structures;0;1;
+social inequality;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+social security benefits;64;SN-3553;eng;15 SOCIAL WELFARE POLICY AND SYSTEMS;15_02 Social welfare systems/structures;0;1;
+social support;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+spouses;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+students;64;SN-3553;eng;03 EDUCATION;03_55 Other (Term introduced by authors);0;1;
+supervisors;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+termination of service;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_06 Unemployment;0;1;
+tolerance;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+trade unions;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_04 Labour relations/conflict;0;1;
+training courses;64;SN-3553;eng;03 EDUCATION;03_55 Other (Term introduced by authors);0;1;
+unemployed;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_06 Unemployment;0;0;
+virtues and vices;64;SN-3553;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+women;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_08 Gender and gender roles;0;1;
+working mothers;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+workplace;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_07 Working conditions;0;1;
+youth;64;SN-3553;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_12 Youth;0;1;
+youth work;64;SN-3553;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+adopted children;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+age;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_55 Other (Term introduced by authors);0;1;
+aids (disease);65;SN-4476;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+alcohol use;65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+alcoholic drinks;65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+animals;65;SN-4476;eng;10 NATURAL ENVIRONMENT;10_04 Plants and animals;0;1;
+anxiety;65;SN-4476;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+arabs;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+arrest;65;SN-4476;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;1;
+asians;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+black people;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+blood;65;SN-4476;eng;19 OTHER;;0;1;
+children;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_02 Children;0;1;
+cinema;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;1;
+clinical tests and measurements;65;SN-4476;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+clubs;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;1;
+cocaine;65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+communications;65;SN-4476;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_55 Other (Term introduced by authors);0;1;
+complementary therapies;65;SN-4476;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+condom use;65;SN-4476;eng;04 HEALTH;04_09 Reproductive health;0;1;
+corporal punishment;65;SN-4476;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+coughing;65;SN-4476;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;1;
+counselling;65;SN-4476;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+cycling;65;SN-4476;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+dentists;65;SN-4476;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+diaries;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_55 Other (Term introduced by authors);0;1;
+diarrhoea;65;SN-4476;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;1;
+discrimination;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_05 Equality, inequality and social exclusion;0;0;
+doctor-patient relationship;65;SN-4476;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+domestic responsibilities;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+drug use;65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+economic activity;65;SN-4476;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+educational background;65;SN-4476;eng;03 EDUCATION;03_55 Other (Term introduced by authors);0;1;
+employers;65;SN-4476;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+ethnic groups;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+exercise (physical activity);65;SN-4476;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+family members;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+father's occupational status;65;SN-4476;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+father's place of birth;65;SN-4476;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_55 Other (Term introduced by authors);0;1;
+food and nutrition;65;SN-4476;eng;04 HEALTH;04_01 Diet and nutrition;0;1;
+friendship;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+fruit;65;SN-4476;eng;04 HEALTH;04_01 Diet and nutrition;0;1;
+gardening;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;1;
+health;65;SN-4476;eng;04 HEALTH;04_03 General health and well-being;0;1;
+health promotion;65;SN-4476;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+hepatitis;65;SN-4476;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;1;
+heroin;65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+heterosexual relationships;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+hiv infections;65;SN-4476;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+hobbies;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;1;
+homosexuality;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);1;1;
+household pets;65;SN-4476;eng;10 NATURAL ENVIRONMENT;10_04 Plants and animals;0;1;
+immunization;65;SN-4476;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+imprisonment;65;SN-4476;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+indigenous populations;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+interpersonal conflict;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;0;
+knowledge (awareness);65;SN-4476;eng;19 OTHER;;0;1;
+leather;65;SN-4476;eng;19 OTHER;;0;1;
+leisure time;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_04 Leisure, tourism and sport;0;1;
+life styles;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_01 Community, urban and rural life;0;1;
+lsd (drug);65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+marital status;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+mass media;65;SN-4476;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_03 Media;0;1;
+massage;65;SN-4476;eng;19 OTHER;;0;1;
+meals;65;SN-4476;eng;04 HEALTH;04_01 Diet and nutrition;0;1;
+medical care;65;SN-4476;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+medical centres;65;SN-4476;eng;04 HEALTH;04_04 Health care services and policies;0;1;
+medical examinations;65;SN-4476;eng;04 HEALTH;04_05 Medication and treatment;0;1;
+meditation;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+memory;65;SN-4476;eng;12 PSYCHOLOGY;;0;1;
+mother's occupational status;65;SN-4476;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+mother's place of birth;65;SN-4476;eng;19 OTHER;;0;1;
+neighbours;65;SN-4476;eng;06 HOUSING AND LAND USE;06_01 Housing;0;1;
+organizations;65;SN-4476;eng;19 OTHER;;0;1;
+pain;65;SN-4476;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+partnerships (personal);65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+periodicals;65;SN-4476;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_03 Media;0;1;
+place of birth;65;SN-4476;eng;01 DEMOGRAPHY (population, vital statistics, and censuses);01_55 Other (Term introduced by authors);0;1;
+place of residence;65;SN-4476;eng;06 HOUSING AND LAND USE;06_55 Other (Term introduced by authors);0;1;
+political allegiance;65;SN-4476;eng;11 POLITICS;11_06 Political behaviour and attitudes;0;1;
+pornography;65;SN-4476;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_03 Media;0;1;
+prayer;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+prostitution;65;SN-4476;eng;07 LABOUR AND EMPLOYMENT;07_02 Employment;0;1;
+public information;65;SN-4476;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_03 Media;0;1;
+qualifications;65;SN-4476;eng;03 EDUCATION;03_55 Other (Term introduced by authors);0;1;
+religious affiliation;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+religious groups;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_05 Religion and values;0;1;
+risk;65;SN-4476;eng;19 OTHER;;0;0;
+running;65;SN-4476;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+sexual assault;65;SN-4476;eng;08 LAW, CRIME AND LEGAL SYSTEMS;08_01 Crime and law enforcement;0;0;
+sexual awareness;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexual behaviour;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_10 Sexuality and sexual identity (Term introduced by authors to allow for distinction between keywords relating to gender and keywords relating to sexuality);0;1;
+sexually transmitted diseases;65;SN-4476;eng;04 HEALTH;04_11 Specific diseases, disorders and medical conditions;0;0;
+siblings;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+sleep;65;SN-4476;eng;04 HEALTH;04_55 Other (Term introduced by authors);0;1;
+smoking;65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+social behaviour;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_06 Social behaviour and attitudes;0;1;
+social class;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_55 Other (Term introduced by authors);0;1;
+social networks;65;SN-4476;eng;16 SOCIETY AND CULTURE;16_01 Community, urban and rural life;0;1;
+socio-economic status;65;SN-4476;eng;02 ECONOMICS;02_02 Economic conditions and indicators;0;1;
+spouses;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_07 Family life and marriage;0;1;
+suicide;65;SN-4476;eng;04 HEALTH;04_12 Wounds and injuries;0;0;
+swimming;65;SN-4476;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+symptoms;65;SN-4476;eng;04 HEALTH;"04_10 Signs and symptoms; pathological conditions";0;0;
+telephone help lines;65;SN-4476;eng;09 MEDIA, COMMUNICATION AND LANGUAGE;09_55 Other (Term introduced by authors);0;1;
+tobacco;65;SN-4476;eng;04 HEALTH;04_02 Drug abuse, alcohol and smoking;0;1;
+vegetarianism;65;SN-4476;eng;04 HEALTH;04_01 Diet and nutrition;0;1;
+walking;65;SN-4476;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
+white people;65;SN-4476;eng;14 SOCIAL STRATIFICATION AND GROUPINGS;14_06 Ethnic groups (Term introduced by authors);0;1;
+workplace relations;65;SN-4476;eng;07 LABOUR AND EMPLOYMENT;07_04 Labour relations/conflict;0;1;
+yoga;65;SN-4476;eng;04 HEALTH;04_07 Physical fitness and exercise;0;1;
